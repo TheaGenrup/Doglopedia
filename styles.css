@@ -41,11 +41,17 @@ h2 {
     background-position: center;
     background-repeat: no-repeat;
     border-radius: 150px;
-    border: rgb(115, 115, 115) 1px solid
+    border: rgb(0, 0, 0) 1px solid
 }
+
+/* Kan jag inte bestämma exakt var hunden ska vara? */
 
 h3 {
     font-size: 17px;
 }
 
-/* Kan jag inte bestämma exakt var hunden ska vara? */
+#copy {
+    text-align: center;
+    border-top: solid rgb(227, 227, 227) 1px;
+    padding: 25px;
+}
