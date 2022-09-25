@@ -1,11 +1,27 @@
+body {
+    max-width: 600px;
+    margin: auto;
+}
+
 #titel {
     text-align: center;
-    background-color: rgb(250, 247, 215);
+    background-color: rgb(250, 244, 215);
     color: rgb(172, 156, 100);
-    padding: 17px;
-    margin: auto;
+    padding: 17px 0px;
     width: 600px;
     border-radius: 5px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
+#navigation_div {
+    border-bottom: 1px rgb(217, 217, 217) solid;
+    color: rgb(115, 115, 115);
+    margin: 0px;
+}
+
+div p {
+    text-align: center;
+    display: inline-block;
+    text-decoration: underline dotted 1px grey;
+    padding: 0px 10px;
 }
