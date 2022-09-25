@@ -1,0 +1,11 @@
+#titel {
+    text-align: center;
+    background-color: rgb(250, 247, 215);
+    color: rgb(172, 156, 100);
+    padding: 17px;
+    margin: auto;
+    width: 600px;
+    border-radius: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
