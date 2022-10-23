@@ -20,6 +20,7 @@ body {
     margin: 0px;
 }
 
+
 div p {
     text-align: center;
     display: inline-block;
@@ -43,8 +44,6 @@ h2 {
     border-radius: 150px;
     border: rgb(0, 0, 0) 1px solid
 }
-
-/* Kan jag inte bestämma exakt var hunden ska vara? */
 
 h3 {
     font-size: 17px;
